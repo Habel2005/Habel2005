@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Habel2005&theme=dracula&margin-w=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Habel2005&theme=gruvbox&margin-w=5&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
