@@ -1,54 +1,55 @@
-<h1 align="center">✨ Hey, I'm <span style="color:#00E5FF;">Habel</span> 👋</h1>
+<h1 align="center">
+  🌌 Hey, I'm <span style="color:#7DF9FF;">Habel</span> 👋
+</h1>
 <h3 align="center">🚀 AI & Flutter Developer | 🎨 UI/UX Explorer | ✈️ Future ATC</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Innovate.;AI+%7C+Flutter+%7C+App+Dev;Building+Smart+and+Minimal+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=550&lines=Exploring+the+Code+Universe...;AI+%7C+Flutter+%7C+App+Dev;Designing+Smart+%26+Minimal+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 About Me
-- 🎓 **Computer Science UnderGraduate from TIST**
-- 🛠 Currently exploring **AI**, **Flutter**, and **Modern Web Design**
-- 🖤 Love building **clean, minimal, and functional** UIs
-- ✈️ **Dream Role:** Air Traffic Controller  
+### 💫 About Me
+- 🎓 **Computer Science UnderGraduate @ TIST**  
+- 🛠 Diving into **AI**, **Flutter**, and **UI Design**  
+- 🌠 Love creating **minimal, futuristic interfaces**  
+- ✈️ **Dream Role:** Air Traffic Controller | Astronomer
 
 ---
 
-### 🛠 Tech Stack
+### 🪐 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-FF4081?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=7DF9FF"/>
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFB300"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge&logo=figma&logoColor=FF4081"/>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=E86A17"/>
+  <img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00E0DC"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
 ---
 
-### 📊 GitHub Snapshot
+### 🚀 GitHub Snapshot
 <div align="center">
   
-![Habel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habel2005&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habel2005&layout=compact&theme=radical&hide_border=true)
+![Habel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habel2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=00E5FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habel2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF)
 
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🌌 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Habel2005">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
@@ -56,8 +57,8 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Habel2005&theme=tokyonight&margin-w=5&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Habel2005&theme=darkhub&margin-w=5&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
