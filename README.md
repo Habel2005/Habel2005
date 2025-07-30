@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Innovate.;AI+%7C+Flutter+%7C+Web+Dev;Building+Smart+and+Minimal+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Innovate.;AI+%7C+Flutter+%7C+App+Dev;Building+Smart+and+Minimal+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Habel2005&theme=radical&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
