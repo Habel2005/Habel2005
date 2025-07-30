@@ -57,7 +57,24 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Habel2005&theme=darkhub&margin-w=10&row=1&title=Experience,Commits,Repositories,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Habel2005
+      &row=1
+      &column=5
+      &title=Experience,Commits,Repositories,Followers,Stars
+      &margin-w=15
+      &no-bg=true
+      &no-frame=true
+      &theme=flat
+      &title_color=7DF9FF
+      &text_color=C9D1D9
+      &icon_color=9D4EDD
+      &bg_color=0D1117" 
+      alt="Cosmic GitHub Trophies" />
+  </a>
+</p>
+
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
