@@ -31,8 +31,8 @@
 ### 📊 GitHub Snapshot
 <div align="center">
   
-![Habel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Habel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habel2005&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habel2005&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
