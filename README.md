@@ -45,7 +45,7 @@
 
 ### 🌌 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/habel-bio/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="https://github.com/Habel2005">
