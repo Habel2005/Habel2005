@@ -1,13 +1,7 @@
 <h1 align="center">
   🌌 Hey, I'm <span style="color:#7DF9FF;">Habel</span> 👋
 </h1>
-<h3 align="center">🚀 AI & Flutter Developer | 🎨 UI/UX Explorer | ✈️ Future ATC</h3>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=550&lines=Exploring+the+Code+Universe...;AI+%7C+Flutter+%7C+App+Dev;Designing+Smart+%26+Minimal+Systems" alt="Typing SVG" />
-</p>
+<h3 align="center"> AI-LLM Stack & Flutter Developer |  LocalLLMs & UI dev</h3>
 
 ---
 
