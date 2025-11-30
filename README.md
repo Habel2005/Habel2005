@@ -30,8 +30,8 @@
 ### 🚀 GitHub Snapshot
 <div align="center">
   
-![Habel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habel2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=00E5FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habel2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF)
+![Habel's GitHub Stats](https://github-readme-stats-one-zeta-64.vercel.app/api?username=Habel2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=00E5FF)
+![Top Langs](https://github-readme-stats-one-zeta-64.vercel.app/api/top-langs/?username=Habel2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF)
 
 </div>
 
