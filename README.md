@@ -1,62 +1,52 @@
-<h1 align="center">
-  🌌 Hey, I'm <span style="color:#7DF9FF;">Habel</span> 👋
-</h1>
-<h3 align="center"> AI-LLM Stack & Flutter Developer |  LocalLLMs & UI dev</h3>
+# Habel 
+
+**Computer Science Undergraduate @ TIST | AI & Full-Stack Developer**
+
+I am a software developer specializing in the intersection of Artificial Intelligence and user-centric application development. My focus is on building scalable cross-platform applications and integrating local Large Language Models (LLMs) to create intelligent, real-world solutions. 
 
 ---
 
-### 💫 About Me
-- 🎓 **Computer Science UnderGraduate @ TIST**  
-- 🛠 Diving into **AI**, **Flutter**, and **UI Design**  
-- 🌠 Love creating **minimal, futuristic interfaces**  
-- ✈️ **Dream Role:** Air Traffic Controller | Astronomer
+### 💻 Technical Proficiency
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+**Frameworks & Technologies:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**AI, Tools & Architecture:**
+![Local LLMs](https://img.shields.io/badge/Local_LLMs-FF9900?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 🪐 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=7DF9FF"/>
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFB300"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge&logo=figma&logoColor=FF4081"/>
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=E86A17"/>
-  <img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00E0DC"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-</p>
+### 🚀 Featured Projects
+
+| Project | Description | Technologies Used |
+| :--- | :--- | :--- |
+| **Malayalam AI Telephony Assistant** | A real-time, on-premise voice assistant designed for automated college admissions inquiries, featuring custom STT/TTS pipelines. | Python, Phi-4, Whisper, Piper TTS |
+| **Advay Event Platform** | Designed and developed the interactive web platform for the Advay college fest, featuring complex animations and responsive UI. | React, Next.js |
+| **Cross-Platform Mobile Apps** | Engineered mobile applications with highly efficient local storage solutions handling large datasets and image caching. | Flutter, React Native, Firebase |
+
+> **Note:** Check out my pinned repositories below for source code and detailed documentation.
 
 ---
 
-### 🚀 GitHub Snapshot
-<div align="center">
-  
-![Habel's GitHub Stats](https://github-readme-stats-one-zeta-64.vercel.app/api?username=Habel2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=00E5FF)
-![Top Langs](https://github-readme-stats-one-zeta-64.vercel.app/api/top-langs/?username=Habel2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF)
+### 📬 Connect With Me
 
-</div>
-
----
-
-### 🌌 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/habel-bio/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/habel-bio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Habel2005">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Habel2005&row=1&column=5&title=Experience,Commits,Repositories,Followers,Stars&margin-w=15&no-bg=true&no-frame=true&theme=flat&title_color=7DF9FF&text_color=C9D1D9&icon_color=9D4EDD&bg_color=0D1117" alt="Cosmic GitHub Trophies" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
