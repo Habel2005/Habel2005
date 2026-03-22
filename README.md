@@ -2,7 +2,7 @@
 
 **Computer Science Undergraduate @ TIST | AI & Full-Stack Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Habel2005&color=3776AB&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Habel2005" width="1" height="1" />
 
 I am a software developer specializing in the intersection of Artificial Intelligence and user-centric application development. My focus is on building scalable cross-platform applications and integrating local Large Language Models (LLMs) to create intelligent, real-world solutions. 
 
