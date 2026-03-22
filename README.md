@@ -2,6 +2,8 @@
 
 **Computer Science Undergraduate @ TIST | AI & Full-Stack Developer**
 
+![Profile Views](https://komarev.com/ghpvc/?username=Habel2005&color=3776AB&style=flat-square&label=PROFILE+VIEWS)
+
 I am a software developer specializing in the intersection of Artificial Intelligence and user-centric application development. My focus is on building scalable cross-platform applications and integrating local Large Language Models (LLMs) to create intelligent, real-world solutions. 
 
 ---
@@ -32,11 +34,24 @@ I am a software developer specializing in the intersection of Artificial Intelli
 
 | Project | Description | Technologies Used |
 | :--- | :--- | :--- |
-| **[Malayalam AI Telephony Assistant](https://github.com/Habel2005/Zentry/tree/new)** | A real-time, on-premise voice assistant designed for automated college admissions inquiries, featuring custom STT/TTS pipelines. | Python, Phi-4, Whisper, Piper TTS |
+| **[Sambashini (Malayalam AI Assistant)](https://github.com/Habel2005/Zentry/tree/new)** | A real-time, on-premise voice assistant designed for automated college admissions inquiries, featuring custom STT/TTS pipelines. | Python, Phi-4, Whisper, Piper TTS |
 | **[Advay Event Platform](https://github.com/Habel2005/Advaay_2026/tree/master)** | Designed and developed the interactive web platform for the Advay college fest, featuring complex animations and responsive UI. | React, Next.js |
 | **Cross-Platform Mobile Apps** | Engineered mobile applications with highly efficient local storage solutions handling large datasets and image caching. | Flutter, React Native, Firebase |
 
 > **Note:** Check out my pinned repositories below for source code and detailed documentation.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Habel2005&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=888888" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habel2005&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888" alt="Top Languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Habel2005/Habel2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
