@@ -32,7 +32,7 @@ I am a software developer specializing in the intersection of Artificial Intelli
 
 | Project | Description | Technologies Used |
 | :--- | :--- | :--- |
-| **Malayalam AI Telephony Assistant** | A real-time, on-premise voice assistant designed for automated college admissions inquiries, featuring custom STT/TTS pipelines. | Python, Phi-4, Whisper, Piper TTS |
+| **[Malayalam AI Telephony Assistant](https://github.com/Habel2005/Zentry/tree/new)** | A real-time, on-premise voice assistant designed for automated college admissions inquiries, featuring custom STT/TTS pipelines. | Python, Phi-4, Whisper, Piper TTS |
 | **Advay Event Platform** | Designed and developed the interactive web platform for the Advay college fest, featuring complex animations and responsive UI. | React, Next.js |
 | **Cross-Platform Mobile Apps** | Engineered mobile applications with highly efficient local storage solutions handling large datasets and image caching. | Flutter, React Native, Firebase |
 
