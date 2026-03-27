@@ -2,7 +2,7 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -23,25 +23,37 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Language Card
+      # 1. Generate the TOP LANGUAGES Card
+      - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          # Customizing to match your original request
           options: "username=Habel2005&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888"
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 2. Generate the GENERAL STATS Card (The one that was crashing)
+      - name: Generate General Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          # These options match your original "crashing" link
+          options: "username=Habel2005&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=888888"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Move both generated files to the dist folder
       - name: Prepare files for output
         run: |
           mkdir -p dist
-          # The action saves to profile/top-langs.svg by default; move it to dist
+          # Move both files created by the action
           mv profile/top-langs.svg dist/top-langs.svg
+          mv profile/stats.svg dist/github-stats.svg
 
+      # 4. Push to the output branch (Keep history so it doesn't delete the snake!)
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true # This prevents the stats from deleting your snake files
+          keep_history: true 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
