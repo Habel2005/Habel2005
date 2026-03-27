@@ -26,7 +26,7 @@ I am a software developer specializing in the intersection of Artificial Intelli
 ![Local LLMs](https://img.shields.io/badge/Local_LLMs-FF9900?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Python-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -46,7 +46,7 @@ I am a software developer specializing in the intersection of Artificial Intelli
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Habel2005&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=888888" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habel2005&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888" alt="Top Languages" width="48%">
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
