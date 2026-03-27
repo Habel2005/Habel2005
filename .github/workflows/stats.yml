@@ -1,0 +1,22 @@
+name: Update Stats
+on:
+  schedule: [{cron: "0 0 * * *"}] # Runs daily at midnight
+  workflow_dispatch: # Allows manual run
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Language Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "username=Habel2005&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888"
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile/top-langs.svg
+          git commit -m "Update stats" || exit 0
+          git push
