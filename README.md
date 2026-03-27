@@ -45,8 +45,8 @@ I am a software developer specializing in the intersection of Artificial Intelli
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habel2005&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=888888" alt="GitHub Stats" width="48%">
   <img src="./profile/top-langs.svg" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habel2005&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
