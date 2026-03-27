@@ -45,12 +45,12 @@ I am a software developer specializing in the intersection of Artificial Intelli
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%">
+  <img src="https://raw.githubusercontent.com/Habel2005/Habel2005/output/github-stats.svg" alt="GitHub Stats" width="48%">
   <img src="https://raw.githubusercontent.com/Habel2005/Habel2005/output/top-langs.svg" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Habel2005/Habel2005/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/Habel2005/Habel2005/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
 ---
