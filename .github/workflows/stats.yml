@@ -15,15 +15,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
+      # 1. Checkout main branch
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 1. Generate the TOP LANGUAGES Card
+      # 2. Generate Top Languages Card
       - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -31,29 +29,48 @@ jobs:
           options: "username=Habel2005&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888"
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 2. Generate the GENERAL STATS Card (The one that was crashing)
+      # 3. Generate General Stats Card
       - name: Generate General Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # These options match your original "crashing" link
           options: "username=Habel2005&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=888888"
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Move both generated files to the dist folder
-      - name: Prepare files for output
+      # 4. Verify files exist (fail fast if broken)
+      - name: Verify generated files
+        run: |
+          echo "Checking generated files..."
+          ls -la profile
+          test -f profile/stats.svg || (echo "❌ stats.svg missing" && exit 1)
+          test -f profile/top-langs.svg || (echo "❌ top-langs.svg missing" && exit 1)
+
+      # 5. Prepare output directory
+      - name: Prepare files
         run: |
           mkdir -p dist
-          # Move both files created by the action
-          mv profile/top-langs.svg dist/top-langs.svg
-          mv profile/stats.svg dist/github-stats.svg
+          cp profile/top-langs.svg dist/top-langs.svg
+          cp profile/stats.svg dist/github-stats.svg
 
-      # 4. Push to the output branch (Keep history so it doesn't delete the snake!)
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v5
+      # 6. Checkout output branch separately
+      - name: Checkout output branch
+        uses: actions/checkout@v4
         with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true 
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ref: output
+          path: output
+
+      # 7. Copy new files into output branch (merge, don’t wipe)
+      - name: Copy files to output branch
+        run: |
+          cp dist/* output/
+
+      # 8. Commit & push manually (controlled, no surprises)
+      - name: Commit and push
+        run: |
+          cd output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git commit -m "Update GitHub stats" || echo "No changes to commit"
+          git push
