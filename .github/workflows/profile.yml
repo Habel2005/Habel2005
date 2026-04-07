@@ -24,14 +24,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: "username=Habel2005&layout=compact"
+          options: "username=Habel2005&layout=compact&theme=dark"
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: "username=Habel2005&show_icons=true"
+          options: "username=Habel2005&show_icons=true&theme=dark"
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # ✅ Generate snake
