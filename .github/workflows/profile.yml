@@ -1,0 +1,60 @@
+name: Generate All Assets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # ✅ Generate stats
+      - name: Generate Top Languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "username=Habel2005&layout=compact"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: "username=Habel2005&show_icons=true"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ✅ Generate snake
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # ✅ Prepare all files in ONE folder
+      - name: Prepare output
+        run: |
+          mkdir -p dist
+          cp profile/top-langs.svg dist/top-langs.svg
+          cp profile/stats.svg dist/github-stats.svg
+
+      # ✅ Push everything together
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
